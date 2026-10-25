@@ -7,7 +7,6 @@ import { brand } from "@/lib/data";
 // Barra superior fija: cambia de estilo al hacer scroll.
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
-
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
     onScroll();
