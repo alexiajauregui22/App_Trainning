@@ -1,6 +1,6 @@
 # Plataforma Digital Entrenamiento
 
-Plataforma digital fitness para el gimnasio **Gesundheitsforum Dienstbier**.
+Plataforma digital fitness para el gimnasio
 
 > **Estado actual:** fase de diseño visual. El frontend es una simulación en localhost.
 > Aún no hay conexión a base de datos, Docker ni lógica de negocio. Esa lógica se
