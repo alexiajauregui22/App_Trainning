@@ -1,4 +1,4 @@
-# Gesundheitsforum Dienstbier
+# Plataforma Digital Entrenamiento
 
 Plataforma digital fitness para el gimnasio **Gesundheitsforum Dienstbier**.
 
